@@ -1,7 +1,7 @@
-### README: Análise de Dados do Perfil dos Alunos - 2020
+### Análise de Dados do Perfil dos Alunos - 2020
 
 #### Introdução
-Este projeto realiza uma análise detalhada dos dados de perfil dos alunos das escolas públicas e privadas do Recife em 2020. O dataset utilizado pode ser acessado através do [link fornecido](http://dados.recife.pe.gov.br/dataset/2015a954-4f3a-4ff2-84a1-f915feffd9ac/resource/6d9b3998-85fd-4c8a-9ec2-9932b9e5b90d/download/alunos.csv).
+Este projeto realiza uma análise detalhada dos dados de perfil dos alunos das escolas públicas e privadas do Recife em 2020. O dataset utilizado pode ser acessado através do [link](http://dados.recife.pe.gov.br/dataset/2015a954-4f3a-4ff2-84a1-f915feffd9ac/resource/6d9b3998-85fd-4c8a-9ec2-9932b9e5b90d/download/alunos.csv).
 
 #### Estrutura do Projeto
 O notebook contém as seguintes seções:
